@@ -4,14 +4,16 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Guilherme Sabino Rocha Mattos
+- Matricula: 00884063
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Criação de um site de receitas com alguns artigos e espaço para publicidade. Não sei como descrever melhor que isso, para ser sincero.
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="public/img/dadosJSONtesteAPI1.png" alt="Teste da API - Dados JSON" />
+<img src="public/img/dadosJSONtesteAPI2.png" alt="Teste da API - Dados JSON" />
+<img src="public/img/dadosJSONtesteAPI3.png" alt="Teste da API - Dados JSON" />
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
