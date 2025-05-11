@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome: 
-- Matricula: 
-- Proposta de projeto escolhida: 
-- Breve descrição sobre seu projeto: 
+- Nome: Guilherme Sabino Rocha Mattos
+- Matricula: 00884063
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Criação de um site de receitas com alguns artigos e espaço para publicidade. Não sei como descrever melhor que isso, para ser sincero.
 
 **Print do teste da API com visualização do JSON**
 
