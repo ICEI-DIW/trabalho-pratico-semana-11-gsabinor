@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome: Guilherme Sabino Rocha Mattos
-- Matricula: 00884063
-- Proposta de projeto escolhida: Diretório de Receitas
-- Breve descrição sobre seu projeto: Criação de um site de receitas com alguns artigos e espaço para publicidade. Não sei como descrever melhor que isso, para ser sincero.
+- Nome: 
+- Matricula: 
+- Proposta de projeto escolhida: 
+- Breve descrição sobre seu projeto: 
 
 **Print do teste da API com visualização do JSON**
 
@@ -17,7 +17,9 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="public/img/requisicoesFetchXHR1.png" alt="Requisições Fetch/XHR" />
+<img src="public/img/requisicoesFetchXHR2.png" alt="Requisições Fetch/XHR" />
+<img src="public/img/requisicoesFetchXHR3.png" alt="Requisições Fetch/XHR" />
 
 ## **Orientações Gerais**
 
