@@ -1,0 +1,206 @@
+/* Reset */
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+/* Logo */
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Limite de tamanho (imagens) */
+.nova-receita img {
+    max-width: 1100px;
+    min-width: 250px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.sugestao-receita img,
+.festas-populares img {
+    max-width: 300px;
+    max-height: 300px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Limite de tamanho (as mais acessadas) */
+.mais-acessadas .card {
+    max-width: 330px;
+    max-height: 248px;
+    margin: 0 auto;
+}
+
+/* Imagem redonda (Criador do site) */
+.criador img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+/* Cores diferentes para os botões */
+.btn-warning {
+    background-color: #ff6600;
+    border-color: #ff6600;
+}
+
+.btn-warning:hover {
+    background-color: #e65c00;
+    border-color: #e65c00;
+}
+
+
+
+.carousel-caption {
+    bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-caption {
+      display: block !important;
+      font-size: 14px;
+    }
+  }
+  
+
+
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  
+
+  #detalhe-receita {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #detalhe-receita img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+  }
+  
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+  }
+
+ /* Estilo para as imagens da galeria */
+#detalhe-receita .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+#detalhe-receita .row .col-md-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#detalhe-receita .row img {
+  width: 100%;
+  max-width: 300px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+#detalhe-receita .row p {
+  font-size: 14px;
+  color: #555;
+  text-align: center;
+  margin-top: 8px;
+}
+
+/* Responsivo para celular */
+@media (max-width: 768px) {
+  #detalhe-receita .row img {
+    height: 180px;
+  }
+}
+
+/* Estilo para as imagens da galeria dos artigos */
+#detalhe-artigo .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+#detalhe-artigo .row .col-md-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#detalhe-artigo .row img {
+  width: 100%;
+  max-width: 300px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+#detalhe-artigo .row p {
+  font-size: 14px;
+  color: #555;
+  text-align: center;
+  margin-top: 8px;
+}
+
+/* Responsivo para celular */
+@media (max-width: 768px) {
+  #detalhe-artigo .row img {
+    height: 180px;
+  }
+}
+
+/* Estilo para imagem principal da receita e do artigo */
+.img-capa {
+  width: 100%;
+  max-width: 600px; 
+  height: auto;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
+/* Responsivo para telas menores */
+@media (max-width: 768px) {
+  .img-capa {
+    max-width: 90%;
+  }
+}
+
+/* Centralizar largura dos artigos */
+.artigo-conteudo {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 15px;
+  text-align: justify;
+}
+
+
+
+
+  
+  
